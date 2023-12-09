@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **python, django, bootstrap**
 
-- 📫 How to reach me **erfan.es00749@gmail.com*
+- 📫 How to reach me **erfan.es00749@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
